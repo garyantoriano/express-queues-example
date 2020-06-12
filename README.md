@@ -1,9 +1,8 @@
-# Notas:
+# Notes:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+This is an express application to show an example of how to use sockets for a ticketing application.
 
-Recuerden que deben de reconstruir los módulos de node con el comando
-
+To install the dependencies run the following command:
 ```
 npm install
 ```
